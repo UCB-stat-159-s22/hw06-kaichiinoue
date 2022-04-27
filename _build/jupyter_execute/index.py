@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # BINARY BLACK HOLE SIGNALS IN LIGO OPEN DATA 
+# # BINARY BLACK HOLE SIGNALS IN LIGO OPEN DATA Heyhey
 # 
 # Version 1.63, 2017 Sept 11
 # 
